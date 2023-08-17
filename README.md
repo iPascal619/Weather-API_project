@@ -25,5 +25,6 @@ License and Credits
 This application was developed by Me, Pascal Onuoha. Feel free to explore the code and customize it to your needs. However, please avoid copying the code verbatim or using the provided API key.
 
 For more information about the weather API used in this project, please visit: https://openweathermap.org/current
+Here is a Link to the demo video of the application https://www.loom.com/share/dd88498e6fb945f5b80e03450e340ee5?sid=c60bd950-fddf-483b-a9e9-1f00b774f85d
 
 Happy weather tracking and coding! 🌤️
